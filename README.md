@@ -1,0 +1,2 @@
+# AIGC Detector: webservice-frontend
+`webservice-frontend` component of the AIGC Detector system. Refer to the [`gateway`](https://github.com/muangcrys/AIGC-gateway) repository for the main README file.
